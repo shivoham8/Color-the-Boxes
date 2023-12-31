@@ -4,8 +4,7 @@ A simple web page that displays a container with boxes, each having a randomly g
 
 ## Preview
 
-![Random Color Boxes Preview](<img width="1029" alt="Screenshot" src="https://github.com/shivoham8/Color-the-Boxes/assets/97246211/15f9d2f3-1f5a-4dbd-a392-2128be9ea959">
-)
+![Random Color Boxes Preview](Screenshot.png)
 
 ## Features
 
