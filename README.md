@@ -4,7 +4,8 @@ A simple web page that displays a container with boxes, each having a randomly g
 
 ## Preview
 
-![Random Color Boxes Preview](screenshot.png)
+![Random Color Boxes Preview](<img width="1029" alt="Screenshot" src="https://github.com/shivoham8/Color-the-Boxes/assets/97246211/15f9d2f3-1f5a-4dbd-a392-2128be9ea959">
+)
 
 ## Features
 
@@ -32,9 +33,9 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Author
 
-- [Ajay Gupta] ([Your GitHub Profile](https://github.com/shivoham8))
+- Ajay Gupta [Your GitHub Profile]https://github.com/shivoham8
 
 ## Contact
 
-For any inquiries or feedback, please contact [ajaygupta230085@gmail.com].
+For any inquiries or feedback, please contact ajaygupta230085@gmail.com.
 
