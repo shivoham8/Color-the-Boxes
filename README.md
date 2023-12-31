@@ -32,7 +32,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Author
 
-- Ajay Gupta [Your GitHub Profile]https://github.com/shivoham8
+- Ajay Gupta (https://github.com/shivoham8)
 
 ## Contact
 
